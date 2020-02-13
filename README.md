@@ -1,5 +1,4 @@
 # forktest1
-fork me!
-forked
-forchette
-spoons even
+
+Yup this is a forktest.  It worked.
+
